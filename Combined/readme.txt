@@ -1,0 +1,18 @@
+Dijkstra EXPANDE 0
+Dijkstra EXPANDE 2
+Dijkstra EXPANDE 4
+Dijkstra EXPANDE 7
+Dijkstra EXPANDE 1
+Dijkstra EXPANDE 8
+Dijkstra EXPANDE 5
+Dijkstra EXPANDE 6
+Dijkstra EXPANDE 3
+Dijkstra EXPANDE 9
+
+  
+A* EXPANDE 0
+A* EXPANDE 2
+A* EXPANDE 5
+A* EXPANDE 4
+A* EXPANDE 9
+

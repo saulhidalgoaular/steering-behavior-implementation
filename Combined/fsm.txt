@@ -1,0 +1,13 @@
+5
+perseguir_a_medusa fish dusa fsm_entry_seek fsm_seek fsm_exit_seek
+comer2 fish food2 fsm_entry_seek go_to_feed fsm_exit_seek
+volver_a_casa fish home fsm_entry_seek fsm_seek fsm_exit_seek
+comer1 fish food1 fsm_entry_seek go_to_feed fsm_exit_seek
+salir fish exit_door fsm_entry_seek fsm_seek fsm_exit_seek
+6
+0 1 notFedEnough
+1 0 fedEnough
+0 2 target_reached
+2 3 notFedEnough
+3 2 fedEnough
+2 4 target_reached
